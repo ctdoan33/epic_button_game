@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+}
+#epic{
+	color: white;
+	background-color: blue;
+	font-size: 1.2em;
+	padding: 20px;
+	border: 2pt solid black;
+	border-radius: 1em;
+}
+#reset{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	color: white;
+	background-color: red;
+	border: 2pt solid black;
+	box-shadow: 2px 2px black;
+	padding: 5px 20px;
+}
